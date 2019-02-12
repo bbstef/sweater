@@ -5,6 +5,7 @@
     <body>
     <div>
         <@L.logout />
+        <a href="/user">User list</a>
     </div>
     <div>
         <form method="post" action="main">
